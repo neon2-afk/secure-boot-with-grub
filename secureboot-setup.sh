@@ -15,7 +15,7 @@ sudo pacman -S --noconfirm sbctl
 
 # GRUB EFI installation
 echo "Installing GRUB EFI..."
-sudo grub-install --target=x86_64-efi --efi-directory=esp --bootloader-id=GRUB --modules="tpm" --disable-shim-lock
+sudo grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB --modules="tpm" --disable-shim-lock
 echo "GRUB EFI installation completed."
 
 # sbctl status check
