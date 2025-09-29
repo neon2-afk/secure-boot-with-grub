@@ -5,7 +5,8 @@ Setup Instructions
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/neon2-afk/secure-boot-with-grub.git
+
 cd secure-boot-with-grub
 
 2. Make the script executable
