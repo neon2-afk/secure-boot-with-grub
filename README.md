@@ -57,4 +57,5 @@ If Setup Mode is disabled but Secure Boot is already enabled → notify user and
 If you choose not to reboot immediately, make sure to manually reboot later for changes to take effect:
 
 sudo reboot
+
 i had help from ai its my first project 
